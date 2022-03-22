@@ -12,7 +12,7 @@ html, body {
 .grid {
   width: 250px;
   height: 250px;
-  border: 1px solid rgb(255, 251, 251);
+  border: 1px solid rgba(243, 207, 0, 0.863);
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
@@ -44,7 +44,8 @@ border-radius: 20px;
     height: 20px;
     /*border:1px black solid;
     box-sizing:border-box*/
-    } */
+    }  */
+
 
 /* .popup {
   background: rgb(32, 31, 31);
